@@ -47,9 +47,13 @@
 }
 .prof_info p{
     letter-spacing: 1px;
+    display: flex;
 }
 .names{
     margin-bottom: 10px;
+}
+.Icons{
+    margin-right: 5px;
 }
 .title__mobile{
     display: none;
@@ -62,7 +66,7 @@
         width: 100%;
     }
     .prof_info{
-        font-size: 15px;
+        font-size: 17px;
         margin-top: 20px;
     }
     .title__mobile{
